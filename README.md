@@ -28,6 +28,7 @@ The assistant interacts with users using voice responses for a more natural expe
 To develop an intelligent voice-controlled assistant that can automate tasks and provide real-time assistance using AI and speech technologies.
 
 🚀 Features
+
 🎤 Speech Recognition
 🔊 Text-to-Speech Response
 🌐 Web Search Automation
@@ -39,6 +40,8 @@ To develop an intelligent voice-controlled assistant that can automate tasks and
 ⚡ Fast Command Processing
 🖥 User-Friendly Interaction
 🛠 Technologies Used
+
+
 Programming Language
 Python 3
 Libraries & Modules
@@ -57,11 +60,16 @@ AI-Voice-Assistant/
 │── requirements.txt
 │── README.md
 │── assets/
+
+
+
 ⚙️ Software Requirements
 Python 3.9+
 VS Code / PyCharm / Jupyter Notebook
 Install Dependencies
 pip install speechrecognition pyttsx3 wikipedia pywhatkit pyaudio requests
+
+
 💻 Hardware Requirements
 Component	Requirement
 Processor	Intel i3 or above
@@ -69,20 +77,27 @@ RAM	Minimum 4GB
 Microphone	Required
 Speaker/Headphones	Required
 OS	Windows / Linux / macOS
+
 📖 How It Works
 User speaks a command.
 Speech Recognition converts voice into text.
 AI processes the command.
 Assistant performs the task.
+
+
 Text-to-Speech converts response into voice output.
 🎙 Example Commands
 Command	Action
+
+
 "Open YouTube"	Opens YouTube
 "What is the time?"	Tells current time
 "Search Python tutorials"	Searches the web
 "Play music"	Plays music
 "Who is Elon Musk?"	Wikipedia summary
 "Open calculator"	Opens Calculator app
+
+
 🧠 Core Functionalities
 Speech Recognition
 import speech_recognition as sr
@@ -102,9 +117,11 @@ Used to open websites and search online content.
 ▶️ How to Run the Project
 Step 1: Clone Repository
 git clone https://github.com/your-username/AI-Voice-Assistant.git
+
 Step 2: Install Libraries
 pip install -r requirements.txt
 Step 3: Run the Program
+
 python main.py
 📊 Sample Workflow
 User: What is the time?
@@ -140,6 +157,8 @@ Mobile App Version
 Voice Authentication
 Offline AI Assistant
 Real-time Weather & News APIs
+
+
 🔐 Security & Privacy
 Voice data is processed locally (optional setup)
 No sensitive data is stored
@@ -155,6 +174,7 @@ Automation using Python
 Voice Processing
 Python Libraries Integration
 Real-world AI Applications
+
 📄 Conclusion
 
 The AI Voice Assistant provides a smart and interactive way to automate tasks using voice commands. It combines AI, speech recognition, and automation technologies to create a user-friendly assistant capable of handling everyday tasks efficiently.
@@ -167,6 +187,8 @@ Fork the repository
 Create a new branch
 Improve the project
 Submit a Pull Request
+
+
 📄 License
 
 This project is open-source and available under the MIT License.
