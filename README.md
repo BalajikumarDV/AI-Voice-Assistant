@@ -11,6 +11,8 @@ Automation
 Natural Language Processing (NLP)
 📌 Project Overview
 
+![image art](https://github.com/BalajikumarDV/AI-Voice-Assistant/blob/3cfd38cb6238260495b0ac16bc1e1b97f5e3c313/AI%20Voice%20Assistant%20output%202.png)
+ 
 The AI Voice Assistant listens to user voice commands, processes the input, and performs various tasks such as:
 
 Opening applications
