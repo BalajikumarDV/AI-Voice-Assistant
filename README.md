@@ -25,6 +25,9 @@ Automating system tasks
 
 The assistant interacts with users using voice responses for a more natural experience.
 
+![image art](https://github.com/BalajikumarDV/AI-Voice-Assistant/blob/b7e7f1675332588c8be864df7579881b3a46fc60/AI%20Voice%20Assistant.png)
+
+
 🎯 Aim
 
 To develop an intelligent voice-controlled assistant that can automate tasks and provide real-time assistance using AI and speech technologies.
